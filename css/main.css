@@ -1,0 +1,9 @@
+.nav-spacing {
+  margin-left: 10px; 
+  text-decoration: none; 
+  color: blue;
+}  
+
+.nav-menu {
+  text-align: right;
+}
